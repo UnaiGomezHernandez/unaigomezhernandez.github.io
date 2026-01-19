@@ -38,12 +38,5 @@ contribute to open-source projects including [glm-tools/pyglmnet](https://github
 - BSc Political Science, **University of the Basque Country** (Spain) 
 - Erasmus year in International Politics, **Aberystwyth University** (UK) 
 
-<ul>
-  <li><i>2022-present</i> Joint PhD in the EU's external action, **University of Edinburgh** (UK) and **KU Leuven** (Belgium)</li>
-  <li><i>2020</i> MA, International Relations and Diplomacy of the EU, **College of Europe** (Belgium)</li>
-  <li><i>2021</i> BSc, International Relations, **London School of Economics and Political Science** (UK)</li>
-  <li><i>2019</i> BSc, Political Science, **University of the Basque Country** (Spain)</li>
-  <li><i>2012</i> Erasmus in International Politics,  **Aberystwyth University** (UK)</li>
-</ul>
 
 <hr>
