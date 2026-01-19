@@ -40,3 +40,16 @@ contribute to open-source projects including [glm-tools/pyglmnet](https://github
 
 
 <hr>
+
+**Profesional Experience**
+
+- Researcher, **University of Edinburgh** (UK) and **KU Leuven** (Belgium) 2022–present
+- Professor (seminars and tutorials), **University of Edinburgh** (UK) 2022-2023
+- Europa Postgraduate Research Group co-convenor, **University of Edinburgh** (UK) 2022-present
+- Assistant to the Delegate of the Basque Country to the EU, **Basque Government** (Belgium) 2020-2021 
+- European Union environmental policy monitoring officer, **Aclima - Basque Environmental Cluster** (Spain) 2020
+- Researcher on the influence of populist parties on the future of the EU, **University of the Basque Country** (Spain) 2018-2019
+- Public speaking and debating professor, **University of the Basque Country Debating Society** (Spain) 2016-2019
+
+
+<hr>
