@@ -21,28 +21,12 @@ Beyond academia, I have professional experience in EU institutions and policy-or
 
 My research has been published in peer-reviewed journals such as European Security, Global Policy, and Europe-Asia Studies, as well as in edited volumes and policy-oriented outlets. I have also published policy papers with the Foundation of European Progressive Studies (FEPS), the Central European Institute of Asian Studies (CEIAS), and the Association for International Affairs (AMO). I regularly contribute to academic and policy debates through reports and expert commentary, and I participate in international conferences and research networks. 
 
-I hold a joint PhD in European Union External Action (University of Edinburgh and KU Leuven), a Master of Arts in International Relations and Diplomacy of the European Union from the College of Europe, and bachelor’s degrees in International Relations (London School of Economics) and Political Science and Public Administration (University of the Basque Country). I work in Spanish, English, and French, and I use quantitative and computational methods, including R and text analysis, in my research.
+I hold a Master of Arts in International Relations and Diplomacy of the European Union from the College of Europe, and bachelor’s degrees in International Relations (London School of Economics) and Political Science and Public Administration (University of the Basque Country). I work in Spanish, English, French, and Basque, and I use qualitative and quantitative methods in my research, including but no only qualitative comparative analysis (QCA), elite interviewing, participant observation, and computerised text analysis (CTA) R.
 
 
 <hr>
 
-**Blog**
-
-I also write Thai blogs with [@bluenex](https://github.com/bluenex) at [tupleblog](http://tupleblog.github.io/).
-I generally write programming, machine learning, and data science posts here.
-
-**Stack Overflow and Open Source Projects**
-
-Apart from my blog, I also answer Python and PySpark questions
-on [Stack Overflow](http://stackoverflow.com/users/3626961/titipata) and
-contribute to open-source projects including [glm-tools/pyglmnet](https://github.com/glm-tools/pyglmnet), [PhABC/neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools),
-[rkcosmos/deepcut](https://github.com/rkcosmos/deepcut),
-[MrChrisJohnson/implicit-mf](https://github.com/MrChrisJohnson/implicit-mf),
-[benfred/implicit](https://github.com/benfred/implicit), etc.
-
-<hr>
-
-**Education**
+**Educational Summary**
 
 - Joint PhD EU's external action, **University of Edinburgh** (UK) and **KU Leuven** (Belgium) 2022–present
 - MA International Relations and Diplomacy of the EU, **College of Europe** (Belgium) 
@@ -53,7 +37,7 @@ contribute to open-source projects including [glm-tools/pyglmnet](https://github
 
 <hr>
 
-**Profesional Experience**
+**Profesional Summary**
 
 - Researcher, **University of Edinburgh** (UK) and **KU Leuven** (Belgium) 2022–present
 - Professor (seminars and tutorials), **University of Edinburgh** (UK) 2022-2023
