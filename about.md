@@ -32,11 +32,11 @@ contribute to open-source projects including [glm-tools/pyglmnet](https://github
 
 **Education**
 
-- Joint PhD EU's external action, **University of Edinburgh** (UK) and **KU Leuven** (Belgium) - 2022–present
-- MA International Relations and Diplomacy of the EU, **College of Europe** (Belgium) - 2020
-- BSc International Relations, **London School of Economics and Political Science** (UK) - 2021
-- BSc Political Science, **University of the Basque Country** (Spain) - 2019
-- Erasmus in International Politics, **Aberystwyth University** (UK) - 2017-2018
+- Joint PhD EU's external action, **University of Edinburgh** (UK) and **KU Leuven** (Belgium) 2022–present
+- MA International Relations and Diplomacy of the EU, **College of Europe** (Belgium) 2020
+- BSc International Relations, **London School of Economics and Political Science** (UK) 2021
+- BSc Political Science, **University of the Basque Country** (Spain) 2019
+- Erasmus in International Politics, **Aberystwyth University** (UK) 2017-2018
 
 <ul>
   <li><i>2022-present</i> Joint PhD in the EU's external action, **University of Edinburgh** (UK) and **KU Leuven** (Belgium)</li>
