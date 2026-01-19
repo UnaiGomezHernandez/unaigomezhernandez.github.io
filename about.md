@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 <figure><center>
-  <img width="300" src="/images/Profile picture.JPEG" data-action="zoom"/>
+  <img width="300" src="/images/Profile_picture.JPEG" data-action="zoom"/>
 </center></figure>
 
 I am an academic working on politics, international relations, and European studies.
