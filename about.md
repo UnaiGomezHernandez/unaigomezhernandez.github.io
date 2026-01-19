@@ -7,15 +7,10 @@ permalink: /about/
   <img width="300" src="/images/Profile_picture.JPEG" data-action="zoom"/>
 </center></figure>
 
-I am an academic working on politics, international relations, and European studies.
+My name is Unai Gómez-Hernández, and I am an academic working on politics, international relations, and European studies.
 My main research focus is the influence that radical right populist parties have on the EU’s external action towards China in the European Parliament.
 Other research interests include geoeconomics, the future Liberal International Order and illiberalism, and party politics.
 
-My name is Titipat Achakulvisut, a tenure track lectuer at the Department of
-Biomedical Engineering, Mahidol University, Thailand. I run [Biomedical and Data lab](http://badlab.vercel.app/) here.
-I formerly obtained my PhD at the Department of Bioengineering at University of Pennsylvania with [Konrad Kording](http://kordinglab.com/).
-You can find out more info about me in my [CV](http://titipata.github.io/images/pdf/Titipat_CV.pdf),
-my [GitHub](https://github.com/titipata/), or [my lab website](https://biodatlab.github.io/).
 
 <hr>
 
@@ -38,12 +33,11 @@ contribute to open-source projects including [glm-tools/pyglmnet](https://github
 **Education**
 
 <ul>
-  <li><i>2021-present</i> Tenure track lecturer, Biomedical Engineering, Mahidol University, Thailand</li>
-  <li><i>2021</i> Ph.D., Bioengineering, University of Pennsylvania</li>
-  <li><i>Spring 2017</i> Internship, Allen Institute for Artificial Intelligence</li>
-  <li><i>2015</i> M.S. in Biomedical Engineering, Northwestern University</li>
-  <li><i>2012</i> B.S. in Electrical Engineering, Chulalongkorn University, Thailand</li>
-  <li><i>2008</i> Suankularb Wittayalai School, Thailand (oldest public school in Thailand) </li>
+  <li><i>2022-present</i> Joint PhD in the EU's external action, University of Edinburgh (UK) and KU Leuven (Belgium)</li>
+  <li><i>2020</i> MA, International Relations and Diplomacy of the EU, College of Europe (Belgium)</li>
+  <li><i>2021</i> BSc, International Relations, London School of Economics (UK)</li>
+  <li><i>2019</i> BSc, Political Science, University of the Basque Country (Spain)</li>
+  <li><i>2012</i> Erasmus in International Politics,  Aberystwyth University (UK)</li>
 </ul>
 
 <hr>
