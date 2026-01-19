@@ -4,8 +4,12 @@ permalink: /about/
 ---
 
 <figure><center>
-  <img width="300" src="/images/titipata.jpg" data-action="zoom"/>
+  <img width="300" src="/images/Profile picture.JPEG" data-action="zoom"/>
 </center></figure>
+
+I am an academic working on politics, international relations, and European studies.
+My main research focus is the influence that radical right populist parties have on the EU’s external action towards China in the European Parliament.
+Other research interests include geoeconomics, the future Liberal International Order and illiberalism, and party politics.
 
 My name is Titipat Achakulvisut, a tenure track lectuer at the Department of
 Biomedical Engineering, Mahidol University, Thailand. I run [Biomedical and Data lab](http://badlab.vercel.app/) here.
