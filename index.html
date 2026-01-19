@@ -1,40 +1,20 @@
 ---
 layout: default
 ---
-
 <header class="masthead">
   <nav class="masthead-nav">
     {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}&nbsp;&nbsp;&nbsp;/</a>
+    <a href="{{ nav.href }}">{{ nav.name }}&nbsp&nbsp&nbsp/</a>
     {% endfor %}
   </nav>
-
   <h1 class="masthead-title">
     {{ site.name }}
   </h1>
-
-  <p>
-    I am an academic working on politics, international relations, and European studies.
-    My main research focus is the influence that radical right populist parties have on the EU’s
-    external action towards China in the European Parliament.
-    Other research interests include geoeconomics, the future Liberal International Order and
-    illiberalism, and party politics.
+  <p>Tenure track lecturer at Mahidol University, Thailand<br>
+    <br>
+  <a href="https://github.com/titipata"><i class="fa fa-github" aria-hidden="true"></i> Github</a><br>
+  <a href="https://twitter.com/titipat_a"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a><br>
+  <a href="http://tupleblog.github.io/"><i class="fa fa-square-o" aria-hidden="true"></i> Blog</a><br>
+  <a href="https://biodatlab.github.io/"><i class="fa fa-flask" aria-hidden="true"></i> Biomedical and Data Lab, Mahidol U</a>
   </p>
-
-  <div class="home-blocks">
-    <div class="home-block">
-      <h2><a href="/about/">About</a></h2>
-      <p>Research interests, academic background, and current projects.</p>
-    </div>
-
-    <div class="home-block">
-      <h2><a href="/cv/">CV</a></h2>
-      <p>Curriculum vitae, academic appointments, and education.</p>
-    </div>
-
-    <div class="home-block">
-      <h2><a href="/publications/">Publications</a></h2>
-      <p>Journal articles, book chapters, and working papers.</p>
-    </div>
-  </div>
 </header>
