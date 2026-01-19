@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "titipat achakulvisut"
-title:              "titipat personal page"
-description:        "minimal personal page for titipat achakulvisut. feel free to check out project, small blogs and basic information about me"
+name:               "Unai Gómez-Hernández"
+title:              "Unai Gómez-Hernández personal page"
+description:        "I am an academic working on politics, international relations, and European studies. My main research focus is the influence that radical right populist parties have on the EU’s external action towards China in the European Parliament. Other research interests include geoeconomics, the future Liberal International Order and illiberalism, and party politics."
 
 
 # URL
-url:                http://titipata.github.io
+url:                https://unaigomezhernandez.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
