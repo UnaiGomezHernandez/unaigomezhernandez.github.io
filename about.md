@@ -38,7 +38,7 @@ I hold a Master of Arts in International Relations and Diplomacy of the European
 
 <hr>
 
-**Profesional Summary**
+**Professional Summary**
 
 - Researcher, **University of Edinburgh** (UK) and **KU Leuven** (Belgium) 2022–present.
 - Professor (seminars and tutorials), **University of Edinburgh** (UK) 2022-2023.
