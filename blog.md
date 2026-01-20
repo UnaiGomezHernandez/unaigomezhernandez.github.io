@@ -1,6 +1,6 @@
 ---
-title: Blog
-permalink: /blog/
+title: Contact
+permalink: /contact/
 ---
 
 <div class="content list">
