@@ -7,7 +7,7 @@ permalink: /about/
   <img width="300" src="/images/Profile_picture.JPEG" data-action="zoom"/>
 </center></figure>
 
-My name is Unai Gómez-Hernández, and I am an academic working on politics and European studies.
+My name is Unai Gómez-Hernández, and **I am an academic working on the intersection between politics and European studies**.
 My main research focus is the influence that radical right populist parties have on the EU’s external action towards China in the European Parliament.
 Other research interests include geoeconomics, the future Liberal International Order and illiberalism, European public policy, and party politics.
 
@@ -15,14 +15,14 @@ Alongside my doctoral research, I have **teaching experience** across political 
 
 I am **actively involved in academic life** through research communities and networks in Europe. Since 2022, I have served as co-convenor of the Europa Postgraduate Research Group at the Europa Institute, contributing to the organisation of research activities and intellectual exchange among early career researchers. I am also engaged with the China in Europe Research Network (CHERN), I am a member of the UNA Europa Global Governance Research Group, and a founding member of the Spanish Political Science Association’s Standing Group on the European Union. 
 
-My **research has been published in peer-reviewed journals** such as European Security, Global Policy, and Europe-Asia Studies, **as well as in edited volumes and policy-oriented outlets**. Among the latter, I would underscore my work for the Foundation of European Progressive Studies (FEPS), the Central European Institute of Asian Studies (CEIAS), and the Association for International Affairs (AMO) on research linked to European politics and its external dimension. I regularly contribute to academic and policy debates through reports and expert commentary on generalistic media, and I regularly participate in international conferences. 
+My **research has been published in** peer-reviewed journals such as **European Security, Global Policy, and Europe-Asia Studies**, as well as in edited volumes and policy-oriented outlets. Among the latter, I would underscore my work for the **Foundation of European Progressive Studies (FEPS), the Central European Institute of Asian Studies (CEIAS), and the Association for International Affairs (AMO)** on research linked to European politics and its external dimension. I regularly contribute to academic and policy debates through reports and expert commentary on generalistic media, and I very often participate in international conferences. 
 
-My research is multi-methods, combining quantitative and qualitative approaches.
+My research is multi-methods, combining quantitative and qualitative approaches.use qualitative and quantitative methods in my research, including but no only qualitative comparative analysis (QCA), elite interviewing, participant observation, and computerised text analysis (CTA) R.
 
-Beyond academia, I have **professional experience in EU institutions and policy-oriented environments**. I worked as Assistant to the Delegate of the Basque Country to the European Union in Brussels and previously as an environmental policy monitoring officer at Aclima, the Basque Environmental Cluster. Earlier in my career, I conducted research on populist parties and the future of the EU at the University of the Basque Country. I am actively engaged in civil society, having founded and presided the Debating Society of the University of the Basque Country and the Young European Federalists of the Basque Country (JEF Basque Country). I have been a member of Amnesty International and the Global Shapers (part of the World Economic Forum).
 
-I hold a Master of Arts in International Relations and Diplomacy of the European Union from the **College of Europe**, and Bachelor’s degrees in International Relations **(London School of Economics and Political Science)** and Political Science and Public Administration **(University of the Basque Country)**. I work in **Spanish, English, French, and Basque**, and I **code in R and Latex**.
-use qualitative and quantitative methods in my research, including but no only qualitative comparative analysis (QCA), elite interviewing, participant observation, and computerised text analysis (CTA) R.
+Beyond academia, I have **professional experience in EU institutions and policy-oriented environments**. I worked as Assistant to the Delegate of the Basque Country to the European Union in Brussels and previously as an environmental policy monitoring officer at Aclima, the Basque Environmental Cluster. Earlier in my career, I conducted research on populist parties and the future of the EU for the Basque Government. I am actively engaged in civil society, having founded and presided the Debating Society of the University of the Basque Country and the Young European Federalists of the Basque Country (JEF Basque Country). I have been a member of Amnesty International and the Global Shapers (part of the World Economic Forum).
+
+I hold a Master of Arts in International Relations and Diplomacy of the European Union from the College of Europe, and Bachelor’s degrees in International Relations (London School of Economics and Political Science) and Political Science and Public Administration (University of the Basque Country). **I work in Spanish, English, French, and Basque**, and **I code in R and Latex**.
 
 
 <hr>
