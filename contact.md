@@ -13,7 +13,7 @@ permalink: /contact/
 
   <ul>
     <li><strong>Email:</strong> <a href="mailto:unai.gomez@coleurope.eu">unai.gomez@coleurope.eu</a></li>
-    <li><strong>LinkedIn:</strong> <a href="[[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/unai-gómez-hernández)](https://www.linkedin.com/in/unai-gómez-hernández/)" target="_blank">YOUR_LINKEDIN_URL</a></li>
+    <li><strong>LinkedIn:</strong> <a href=[https://www.linkedin.com/in/unai-gómez-hernández] target="_blank">https://www.linkedin.com/in/unai-gómez-hernández</a></li>
     <li><strong>GitHub:</strong> <a href="https://github.com/UnaiGomezHernandez" target="_blank">github.com/UnaiGomezHernandez</a></li>
     <li><strong>Location:</strong> Brussels, Belgium</li>
   </ul>
