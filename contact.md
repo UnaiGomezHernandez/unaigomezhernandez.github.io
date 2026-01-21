@@ -16,8 +16,7 @@ permalink: /contact/
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/unai-gómez-hernández" target="_blank">https://www.linkedin.com/in/unai-gómez-hernández</a></li>
     <li><strong>GitHub:</strong> <a href="https://github.com/UnaiGomezHernandez" target="_blank">github.com/UnaiGomezHernandez</a></li>
     <li><strong>ORCID:</strong> <a href="https://orcid.org/0009-0005-2358-914X" target="_blank" rel="noopener noreferrer">
-0009-0005-2358-914X
-</a><li>
+0009-0005-2358-914X<li>
 <li><strong>Location:</strong> Brussels, Belgium</li>
   </ul>
 
