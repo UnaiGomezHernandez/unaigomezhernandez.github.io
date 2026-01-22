@@ -23,10 +23,11 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
-  - name:           "contact"
-    href:           "/contact"
   - name:           "publications"
     href:           "/publications"
+  - name:           "contact"
+    href:           "/contact"
+
 
 # Sass
 sass:
