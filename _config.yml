@@ -25,6 +25,8 @@ nav:
     href:           "/about"
   - name:           "contact"
     href:           "/contact"
+  - name:           "publications"
+    href:           "/publications"
 
 # Sass
 sass:
