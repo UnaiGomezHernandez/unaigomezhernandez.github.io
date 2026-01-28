@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications
+permalink: /publications/
 ---
 
 ## Peer-reviewed publications
