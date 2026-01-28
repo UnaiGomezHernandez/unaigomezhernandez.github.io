@@ -21,8 +21,6 @@ markdown:           kramdown
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "about"
-    href:           "/about"
   - name:           "publications"
     href:           "/publications"
   - name:           "contact"
