@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications
 ---
 
+<div class="pubs">
+
 ## Peer-reviewed publications
 
 1. **(2025)** [What’s behind Spain’s pivot to China](https://ceias.eu/whats-behind-spains-pivot-to-china/)  
@@ -72,3 +74,5 @@ permalink: /publications
 
 11. **(2019)** **The Basque Country, the European Union, and the Future of Nations.**  
    *Agirre Lehendakari Center Think Tank (available upon request).*
+
+</div>
