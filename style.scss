@@ -439,29 +439,28 @@ tbody tr:nth-child(odd) th {
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 /* ==========================
-   Publications page styling
+   Publications page (A style)
    ========================== */
 
 .pubs ol,
 .pubs ul {
   margin-top: 1rem;
+  padding-left: 1.25rem;         /* space for numbers */
+  list-style-position: outside;  /* numbers outside = easier scanning */
 }
 
-/* More breathing room between publication entries */
-.pubs ol > li,
-.pubs ul > li {
+.pubs li {
   margin-bottom: 1rem;
   line-height: 1.55;
 }
 
-/* If you bold the title in Markdown (**Title**), this makes it pop */
-.pubs li strong {
-  font-weight: 700;
-  color: #333;
-}
-
-/* Slightly reduce the gap between multi-line parts inside one entry */
+/* tighten the spacing of the 2nd/3rd lines within each entry */
 .pubs li p {
-  margin: .25rem 0 0;
+  margin: 0.25rem 0 0;
 }
 
+/* optional: keep last item in each list from having extra bottom gap */
+.pubs ol > li:last-child,
+.pubs ul > li:last-child {
+  margin-bottom: 0;
+}
