@@ -31,6 +31,11 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+/* Make form controls match site font too */
+button, input, select, textarea {
+  font-family: inherit;
+}
+
 a {
   color: #268bd2;
   text-decoration: none;
@@ -45,30 +50,19 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
   font-weight: 200;
-  font-family: "Source Sans Pro";
+  font-family: inherit; /* <- changed */
   line-height: 1.1;
   color: #333;
   letter-spacing: -.025rem;
 }
 
-h1 {
-  font-size: 2rem;
-}
-
-h2 {
-  font-size: 1.6rem;
-}
-
-h3 {
-  font-size: 1.3rem;
-}
-
-h4, h5, h6 {
-  font-size: 1rem;
-}
+h1 { font-size: 2rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.3rem; }
+h4, h5, h6 { font-size: 1rem; }
 
 p {
-  font-family: 'Ubuntu Mono';
+  font-family: inherit; /* <- changed */
   margin: 0 0 1rem;
   font-size: 0.8rem;
 }
@@ -87,7 +81,7 @@ dd {
 }
 
 ul {
-  font-family: 'Ubuntu Mono';
+  font-family: inherit; /* <- changed */
   font-size: 0.8rem;
   list-style: inside circle;
   padding-left: 0;
@@ -104,6 +98,8 @@ ul {
 }
 
 ol {
+  font-family: inherit; /* <- added for consistency */
+  font-size: 0.8rem;    /* <- added to match ul/p sizing */
   list-style: inside decimal;
   padding-left: 0;
 
@@ -165,6 +161,7 @@ blockquote {
   }
 }
 
+/* Keep code blocks monospace (recommended) */
 code,
 pre {
   font-family: Monaco, "Courier New", monospace;
