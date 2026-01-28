@@ -22,9 +22,10 @@ nav:
   - name:           "home"
     href:           "/"
   - name:           "publications"
-    href:           "/publications"
+    href:           "/publications/"
   - name:           "contact"
     href:           "/contact"
+
 
 
 # Sass
