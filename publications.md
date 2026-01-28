@@ -4,10 +4,9 @@ title: Publications
 permalink: /publications
 ---
 
-<div class="pubs" markdown="1">
-
 ## Peer-reviewed publications
 
+{: .pubs }
 1. [**What’s behind Spain’s pivot to China**](https://ceias.eu/whats-behind-spains-pivot-to-china/) **(2025)**  
    *Central European Institute of Asian Studies (CEIAS).*
 
@@ -42,6 +41,7 @@ permalink: /publications
 
 ## Other publications
 
+{: .pubs }
 1. [**Ruling The Spanish Void: What Spain’s Social Democratic Party Can Teach European Liberal Democracies About Party Politics**](https://revdem.ceu.edu/2025/08/15/ruling-the-spanish-void/) **(2025)**  
    *Review of Democracy.*
 
@@ -75,5 +75,3 @@ permalink: /publications
 
 11. **The Basque Country, the European Union, and the Future of Nations.** **(2019)**  
     *Agirre Lehendakari Center Think Tank (available upon request).*
-
-</div>
