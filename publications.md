@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications
 ---
 
-<div class="pubs">
+<div class="pubs" markdown="1">
 
 ## Peer-reviewed publications
 
