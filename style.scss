@@ -442,22 +442,19 @@ tbody tr:nth-child(odd) th {
    Publications page (A style)
    ========================== */
 
-/* override your global "list-style: inside; padding-left: 0" just for pubs lists */
 ol.pubs,
 ul.pubs {
   margin-top: 1rem;
-  padding-left: 1.25rem;        /* space for numbers */
-  list-style-position: outside; /* hanging indent */
+  padding-left: 1.25rem;
+  list-style-position: outside;
 }
 
-/* more breathing room between entries */
 ol.pubs > li,
 ul.pubs > li {
   margin-bottom: 1rem;
   line-height: 1.55;
 }
 
-/* tighten extra paragraph spacing inside entries */
 ol.pubs li p,
 ul.pubs li p {
   margin: 0.25rem 0 0;
