@@ -54,7 +54,7 @@ for path, page in pages.items():
         elif url.fragment and target in pages and unquote(url.fragment) not in pages[target].ids:
             errors.append(f'{path.relative_to(root)}: missing anchor {link}')
 ET.parse(root / 'feed.xml')
-assert len(pages) == 6, f'Expected six public pages, found {len(pages)}; check demo post exclusion.'
+assert len(pages) == 4, f'Expected four public pages, found {len(pages)}; check demo post exclusion.'
 assert len(ET.parse(root / 'feed.xml').findall('.//item')) == 0, 'Demo posts remain in feed'
 if errors:
     raise SystemExit('\n'.join(errors))

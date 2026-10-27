@@ -19,11 +19,10 @@ Open http://127.0.0.1:4000. Check navigation, keyboard focus, zoom, and layout a
 
 ## Content maintenance
 
-- Home introduces the profile; About covers education and experience; Research describes interests and methods.
+- Home contains the profile, research interests and methods, professional experience, education, and languages. Public navigation is limited to Home, Publications, and Contact.
 - Current roles and PhD completion were supplied by the owner for October 2026. No role start dates or projects have been inferred.
-- Publications retain all 20 existing entries and their links, grouped by type. The Europe-Asia Studies item is a book review, not a research article. The SICSS blog entry’s publication year is corrected to 2025 (the event was in 2024), supported by the [University of Edinburgh’s notice](https://www.cdcs.ed.ac.uk/all/news/2025-03/trip-barcelona-summer-institute-computational-social-sciences). FEPS identifies the participation paper as a [policy study](https://feps-europe.eu/publication/inequality-and-populism/).
-- Unpublished reports and library-archived research remain under Other research; no peer-review status is inferred.
+- Publications contain 25 entries under the September 2026 CV’s two headings: Peer-reviewed publications and Other publications. The Modern Tyrant review is recorded as published on 25 October 2026, as confirmed by the owner. Five entries were added from the CV, with verified links where a public source was available. The SICSS blog entry’s publication year is corrected to 2025 (the event was in 2024), supported by the [University of Edinburgh’s notice](https://www.cdcs.ed.ac.uk/all/news/2025-03/trip-barcelona-summer-institute-computational-social-sciences).
 - The Global Policy title, volume, supplement, and page range are corrected against the [publisher’s citation](https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13414). Existing citation details otherwise remain unchanged; this update does not claim a complete bibliography through October 2026.
-- The CV PDF is unchanged and may predate the profile update. Replace it only with an updated source file supplied by the owner.
+- The September 2026 CV was used to audit the website and, with the owner’s explicit approval, is published as `CV_October_2026.pdf`. Website facts explicitly supplied by the owner, including the June 2026 PhD completion and Guest Professor role, remain authoritative where the CV uses older or less complete wording.
 - `_posts` contains inherited theme demonstration content about a different person. It is excluded from the site and feed, but retained in Git. Those old demo URLs will return the existing 404 page after an approved deployment.
 - The footer disclaimer is maintained in the shared default layout.
