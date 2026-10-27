@@ -3,7 +3,11 @@ title: About
 permalink: /about/
 ---
 
-I am a researcher and policy analyst working across European politics, international relations, and public policy. I currently work as a **researcher for the European Commission, focusing on artificial intelligence**, and as **Guest Professor at KU Leuven, focusing on EU–China relations**.
+This page gives a fuller account of my professional and educational background. For a concise introduction, return to [Home]({{ '/' | relative_url }}); for the substance of my work, see [Research]({{ '/research/' | relative_url }}).
+
+## Current roles
+
+I work as a **researcher on AI and strategy for the European Commission**, in DG COMM, and as **Guest Professor at KU Leuven**, focusing on EU–China relations. I also hold a voluntary position as an **Early Career Researcher on EU–China relations with the University of Edinburgh and KU Leuven**.
 
 ## Education
 
@@ -18,9 +22,9 @@ My earlier education includes:
 
 ## Professional experience
 
-My current work brings together research, policy analysis, and teaching on AI and EU–China relations. It builds on doctoral research at the University of Edinburgh and KU Leuven (2022–June 2026) and experience in public institutions and policy-oriented organisations.
+My current work brings together research, policy analysis, and teaching on AI and EU–China relations. It builds on doctoral research at the University of Edinburgh and KU Leuven and experience in public institutions and policy-oriented organisations.
 
-I previously worked as **Assistant to the Delegate of the Basque Country to the European Union**, Basque Government, in Brussels (2020–2021), and as an **EU environmental policy monitoring officer at Aclima**, the Basque Environmental Cluster (2020). Earlier, I researched the influence of populist parties on the future of the EU at the **University of the Basque Country** (2018–2019), including research for the Basque Government.
+In 2026, I was a **Research Trainee on Communication, Strategy, and Artificial Intelligence** at the European Commission’s DG COMM. I previously worked as **Assistant to the Delegate of the Basque Country to the European Union**, Basque Government, in Brussels (2021), and as an **EU environmental policy monitoring officer at Aclima**, the Basque Environmental Cluster (2020). Earlier, I researched the influence of populist parties on the future of the EU at the **University of the Basque Country** (2018–2019), including research for the Basque Government.
 
 ## Teaching and academic engagement
 
@@ -28,11 +32,11 @@ At the **University of Edinburgh**, I taught seminars and tutorials in political
 
 I have delivered a workshop at Edinburgh’s **Centre for Data, Culture & Society** on analysing polarisation in political texts using R.
 
-My academic engagement has included co-convening the **Europa Postgraduate Research Group** at Edinburgh’s Europa Institute, involvement with the **China in Europe Research Network (CHERN)** and the **UNA Europa Global Governance Research Group**, and being a founding member of the **Spanish Political Science Association’s Standing Group on the European Union**.
+My academic engagement has included co-convening the **Europa Postgraduate Research Group** at Edinburgh’s Europa Institute (2022–2026), involvement with the **China in Europe Research Network (CHERN)** and the **UNA Europa Global Governance Research Group**, and being a founding member of the **Spanish Political Science Association’s Standing Group on the European Union**.
 
 ## Languages and civil society
 
-I work in **Spanish, English, French, and Basque**, and use **R and LaTeX**.
+I work in **Spanish** (native), **English** (C2), **French** (C1), and **Basque** (C1), with beginner knowledge of **Chinese** and **Russian** (A1). I use **R and LaTeX**.
 
 I founded and presided over the **University of the Basque Country Debating Society** and the **Young European Federalists of the Basque Country (JEF Basque Country)**. I have also been a member of Amnesty International and Global Shapers (part of the World Economic Forum).
 

@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+This page lists published and forthcoming work by publication type. The categories describe the format of each item and may differ from the broader headings used in my CV.
+
 [Peer-reviewed articles](#peer-reviewed-articles) · [Book chapters](#book-chapters) · [Policy papers](#policy-papers) · [Commentary](#commentary) · [Book reviews](#book-reviews) · [Other research](#other-research)
 
 ## Peer-reviewed articles
@@ -20,56 +22,71 @@ permalink: /publications/
 ## Book chapters
 
 {: .pubs }
-1. [**Do Birds of a Feather Flock Together? Why European Right-Wing Populists Group Separately at the European Parliament: The Case of the 2024 Elections**](https://link.springer.com/chapter/10.1007/978-3-031-89455-8_5) **(2025)**<br>
+1. [**Domestic Illiberal Challengers within the European Parliament: the Case of EU–China Relations**](https://www.globalpolicyjournal.com/blog/29/12/2025/domestic-illiberal-challengers-within-european-parliament-case-eu-china-relations) **(2025)**<br>
+   *In* **The European Union in an Illiberal World** *(Global Policy and the UNA Europa Global Governance Research Group).*
+
+2. [**Do Birds of a Feather Flock Together? Why European Right-Wing Populists Group Separately at the European Parliament: The Case of the 2024 Elections**](https://link.springer.com/chapter/10.1007/978-3-031-89455-8_5) **(2025)**<br>
    *In* **The 2024 European Parliament Elections** *(Springer).*
 
 ## Policy papers
 
 {: .pubs }
-1. [**Prospects for a new socialist political participation**](https://feps-europe.eu/publication/inequality-and-populism/) **(2024)**<br>
+1. [**Upholding core Union values: The European Parliament’s engagement with the Rule of Law Reports during the ninth legislative term**](https://feps-europe.eu/publication/upholding-core-union-values-the-european-parliaments-engagement-with-the-rule-of-law-reports-during-the-ninth-legislative-term/) **(2026)**<br>
+   *Foundation for European Progressive Studies (FEPS) – Young Academic Network.*
+
+2. [**Prospects for a new socialist political participation**](https://feps-europe.eu/publication/inequality-and-populism/) **(2024)**<br>
    *Foundation of European Progressive Studies (FEPS) – Young Academic Network.*
 
 ## Commentary
 
 {: .pubs }
-1. [**Ruling The Spanish Void: What Spain’s Social Democratic Party Can Teach European Liberal Democracies About Party Politics**](https://revdem.ceu.edu/2025/08/15/ruling-the-spanish-void/) **(2025)**<br>
-   *Review of Democracy.*
-
-2. [**Agreements between the United Kingdom and the EU signal the end of the Brexit dream (in Spanish)**](https://agendapublica.es/noticia/19868/reino-unido-ue-acuerdos-defensa-cooperacion-brexit-starmer-global-britain) **(2025)**<br>
-   *Agenda Pública.*
-
-3. [**Could Trump’s presidency boost EU-China climate cooperation?**](https://blogs.lse.ac.uk/europpblog/2025/03/17/could-trumps-presidency-boost-eu-china-climate-cooperation/) **(2025)**<br>
-   *LSE European Politics and Policy (EUROPP).*
-
-4. [**Summer Institute in Computational Social Sciences Barcelona**](https://blogs.ed.ac.uk/cdcs/2025/03/25/summer-institute-in-computational-social-sciences-barcelona/) **(2025)**<br>
-   *Centre for Data, Culture and Society.*
-
-5. [**What’s behind Spain’s pivot to China**](https://ceias.eu/whats-behind-spains-pivot-to-china/) **(2025)**<br>
-   *Central European Institute of Asian Studies (CEIAS).*
-
-6. [**Embracing systemic rivalry: the new European Commission’s plans for EU-China relations**](https://ceias.eu/embracing-systemic-rivalry-the-new-european-commissions-plans-for-eu-china-relations/) **(2024)**<br>
-   *Central European Institute of Asian Studies (CEIAS).*
-
-7. [**European Parliament Elections Will Set the Tone for EU-China Relations**](https://chinaobservers.eu/european-parliament-elections-will-set-the-tone-for-eu-china-relations/) **(2024)**<br>
+1. [**Closer Than Ever: China as the Main Partner in Spain’s New Asia-Pacific Strategy**](https://chinaobservers.eu/closer-than-ever-china-as-the-main-partner-in-spains-new-asia-pacific-strategy/) **(2026)**<br>
    *Association for International Affairs (AMO).*
 
-8. [**European Conservatives and Reformists: Potential kingmakers with a strong position on China issues**](https://www.europeanguanxi.com/post/european-conservatives-and-reformists-potential-kingmakers-in-with-a-strong-position-on-china-issue) **(2024)**<br>
+2. [**Anti-scale regulations: China and Europe’s rivalry over AI**](https://agendapublica.es/noticia/20616/anti-scale-regulations-china-and-europe-rivalry-over-ai) **(2026)** *(with David García García)*<br>
+   *Agenda Pública.*
+
+3. [**Ruling The Spanish Void: What Spain’s Social Democratic Party Can Teach European Liberal Democracies About Party Politics**](https://revdem.ceu.edu/2025/08/15/ruling-the-spanish-void/) **(2025)**<br>
+   *Review of Democracy.*
+
+4. [**Agreements between the United Kingdom and the EU signal the end of the Brexit dream (in Spanish)**](https://agendapublica.es/noticia/19868/reino-unido-ue-acuerdos-defensa-cooperacion-brexit-starmer-global-britain) **(2025)**<br>
+   *Agenda Pública.*
+
+5. [**Could Trump’s presidency boost EU-China climate cooperation?**](https://blogs.lse.ac.uk/europpblog/2025/03/17/could-trumps-presidency-boost-eu-china-climate-cooperation/) **(2025)**<br>
+   *LSE European Politics and Policy (EUROPP).*
+
+6. [**Summer Institute in Computational Social Sciences Barcelona**](https://blogs.ed.ac.uk/cdcs/2025/03/25/summer-institute-in-computational-social-sciences-barcelona/) **(2025)**<br>
+   *Centre for Data, Culture and Society.*
+
+7. [**What’s behind Spain’s pivot to China**](https://ceias.eu/whats-behind-spains-pivot-to-china/) **(2025)**<br>
+   *Central European Institute of Asian Studies (CEIAS).*
+
+8. [**Embracing systemic rivalry: the new European Commission’s plans for EU-China relations**](https://ceias.eu/embracing-systemic-rivalry-the-new-european-commissions-plans-for-eu-china-relations/) **(2024)**<br>
+   *Central European Institute of Asian Studies (CEIAS).*
+
+9. [**European Parliament Elections Will Set the Tone for EU-China Relations**](https://chinaobservers.eu/european-parliament-elections-will-set-the-tone-for-eu-china-relations/) **(2024)**<br>
+   *Association for International Affairs (AMO).*
+
+10. [**European Conservatives and Reformists: Potential kingmakers with a strong position on China issues**](https://www.europeanguanxi.com/post/european-conservatives-and-reformists-potential-kingmakers-in-with-a-strong-position-on-china-issue) **(2024)**<br>
    *European Guanxi.*
 
-9. [**Winners cannot be losers: the uncertain outcomes of the Spanish general elections**](https://feps-europe.eu/winners-cannot-be-losers-the-uncertain-outcomes-of-the-spanish-general-elections/) **(2023)**<br>
+11. [**Winners cannot be losers: the uncertain outcomes of the Spanish general elections**](https://feps-europe.eu/winners-cannot-be-losers-the-uncertain-outcomes-of-the-spanish-general-elections/) **(2023)**<br>
    *Foundation of European Progressive Studies (FEPS).*
 
-10. [**RENPET Network Residency at ARENA Centre for European Studies**](https://uacesoneurope.ideasoneurope.eu/2023/08/31/renpet-network-residency-at-arena-centre-for-european-studies-university-of-oslo/) **(2023)**<br>
+12. [**RENPET Network Residency at ARENA Centre for European Studies**](https://uacesoneurope.ideasoneurope.eu/2023/08/31/renpet-network-residency-at-arena-centre-for-european-studies-university-of-oslo/) **(2023)**<br>
    *Ideas on Europe – The UACES Blog.*
 
 ## Book reviews
 
 {: .pubs }
-1. [**China–EU Relations in a New Era of Global Transformation**](https://doi.org/10.1080/09668136.2024.2358663) **(2024)**<br>
+1. **The Modern Tyrant: Authoritarian Leadership in Theory and Practice**, by Haig Patapan **(commissioned; forthcoming)**<br>
+   *Political Studies Review.*
+
+2. [**China–EU Relations in a New Era of Global Transformation**](https://doi.org/10.1080/09668136.2024.2358663) **(2024)**<br>
    *Europe-Asia Studies*, **76**(6), 981–982.<br>
    DOI: [10.1080/09668136.2024.2358663](https://doi.org/10.1080/09668136.2024.2358663)
 
-2. [**«Convenient Truths. Mapping Climate Agendas of Right-Wing Populist Parties in Europe» by Stella Schaller & Alexander Carius**](https://www.ecologiapolitica.info/wp-content/uploads/2021/07/59.pdf) **(2020)**<br>
+3. [**«Convenient Truths. Mapping Climate Agendas of Right-Wing Populist Parties in Europe» by Stella Schaller & Alexander Carius**](https://www.ecologiapolitica.info/wp-content/uploads/2021/07/59.pdf) **(2020)**<br>
    *Ecología Política*, **59**, 148–151.
 
 ## Other research
