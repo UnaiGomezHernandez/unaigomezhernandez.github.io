@@ -1,0 +1,7 @@
+<header class="masthead">
+  <nav class="masthead-nav" aria-label="Main navigation">
+    {% for nav in site.nav %}
+    <a href="{{ nav.href | relative_url }}"{% if page.url == nav.href %} aria-current="page"{% endif %}>{{ nav.name }}</a>
+    {% endfor %}
+  </nav>
+</header>

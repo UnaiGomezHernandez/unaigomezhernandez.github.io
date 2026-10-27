@@ -1,14 +1,8 @@
 ---
 layout: default
 ---
-<header class="masthead">
-  <nav class="masthead-nav">
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}&nbsp&nbsp&nbsp/</a>
-    {% endfor %}
-  </nav>
-</header>
-<div class="content page">
-  <!-- <h1 class="page-title">{{ page.title }}</h1> -->
+{% include navigation.html %}
+<main id="main-content" class="content page" tabindex="-1">
+  <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
-</div>
+</main>
