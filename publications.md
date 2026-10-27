@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-The publications below follow the two categories and ordering used in my September 2026 CV.
+The publications below show only my finished work, ongoing projects are not included.
 
 ## Peer-reviewed publications
 
