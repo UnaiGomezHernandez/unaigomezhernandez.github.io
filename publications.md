@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-The publications below show only my finished work, ongoing projects are not included.
+The list below show solely my published work, ongoing projects are not included.
 
 ## Peer-reviewed publications
 
