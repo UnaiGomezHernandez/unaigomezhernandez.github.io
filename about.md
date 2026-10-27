@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-I am a researcher and policy analyst working across European politics, international relations, and public policy. I currently work as a **researcher at the European Commission, focusing on artificial intelligence**, and as **Guest Professor at KU Leuven, focusing on EU–China relations**.
+I am a researcher and policy analyst working across European politics, international relations, and public policy. I currently work as a **researcher for the European Commission, focusing on artificial intelligence**, and as **Guest Professor at KU Leuven, focusing on EU–China relations**.
 
 ## Education
 

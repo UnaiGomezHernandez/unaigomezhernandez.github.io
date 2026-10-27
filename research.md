@@ -9,7 +9,7 @@ My research connects EU external action and policymaking with debates on geopoli
 
 - **EU external action and EU–China relations:** European institutions, party politics, and political contestation over the EU’s relationship with China.
 - **Geoeconomics and economic security:** the relationship between economic policy, international power, and the EU’s external action.
-- **Artificial intelligence and AI governance:** the political and policy dimensions of AI, alongside my current focus as a researcher at the European Commission.
+- **Artificial intelligence and AI governance:** the political and policy dimensions of AI, alongside my current focus as a researcher for the European Commission.
 - **Strategic communication and policymaking:** political narratives, polarisation, and how political actors frame policy choices.
 
 My doctoral research, completed in June 2026 through a joint PhD at the University of Edinburgh and KU Leuven, examined the influence of radical right populist parties on EU external action towards China in the European Parliament. My wider interests also include European public policy, illiberalism, and the future of the liberal international order.
