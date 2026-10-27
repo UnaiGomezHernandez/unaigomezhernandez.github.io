@@ -21,10 +21,14 @@ markdown:           kramdown
 nav:
   - name:           "home"
     href:           "/"
+  - name:           "about"
+    href:           "/about/"
+  - name:           "research"
+    href:           "/research/"
   - name:           "publications"
     href:           "/publications/"
   - name:           "contact"
-    href:           "/contact"
+    href:           "/contact/"
 
 
 
@@ -54,3 +58,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+  # Inherited theme demo posts are not this researcher’s work. Keep sources only.
+  - _posts
+  - scripts
+  - vendor
+  - .bundle

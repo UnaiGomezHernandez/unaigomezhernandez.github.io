@@ -3,8 +3,6 @@ title: Contact
 permalink: /contact/
 ---
 
-<div class="content">
-
   <h2>Get in touch</h2>
 
   <p>
@@ -30,5 +28,3 @@ permalink: /contact/
     </li>
     <li><strong>Location:</strong> Brussels, Belgium</li>
   </ul>
-
-</div>
